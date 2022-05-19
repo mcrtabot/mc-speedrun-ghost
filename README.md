@@ -52,6 +52,7 @@
 | --- | --- |
 | oyamelon | https://www.youtube.com/watch?v=ujkfqaXrefA&t |
 | Keima | https://www.youtube.com/watch?v=jKXK7bGWNPI |
+| Tateiki38 | https://www.youtube.com/watch?v=Ei4PqVKJnNU |
 | lhkruns | https://www.youtube.com/watch?v=qPkof-bFWK0 |
 | haru_0123 | https://www.youtube.com/watch?v=dlsYIBgv-CY |
 | tauperm | https://www.youtube.com/watch?v=AL5452msZp4 |
