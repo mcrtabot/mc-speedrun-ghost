@@ -10,24 +10,25 @@
 * チートを「ON」
 * 配布のデータパックを`datapacks`フォルダに配置し「選択中」にする
 
-## 設定をいじる
+## 設定を変更する
 ワールドが生成されたら、`/reload`を実行し、設定メニューが表示します。
-
 
 ## 開始する
 メニューから`/trigger start`をクリックするか、直接入力し実行すると開始します。
 
 # 画面の見方
 ## 設定メニュー（スタート前）
-![vlcsnap-2022-05-19-09h57m31s323](https://user-images.githubusercontent.com/105827807/169179733-b2369f3e-6a9e-4c50-8d07-a331b721a6a2.png)
+![vlcsnap-2022-05-19-14h28m15s201](https://user-images.githubusercontent.com/105827807/169217170-e950859a-ca48-439f-a71c-4e4b8ec481d6.png)
 
-* 各ゴーストのON/OFF
+* 各走者のゴーストのON/OFF
 * ステータス表示のON/OFF
 
 ## スタート後
-![vlcsnap-2022-05-19-09h56m35s379](https://user-images.githubusercontent.com/105827807/169179668-dc6f7fe4-f8ce-4069-8388-b152ff41ba80.png)
+![vlcsnap-2022-05-19-14h29m04s515](https://user-images.githubusercontent.com/105827807/169217215-855aeded-17ac-4296-a8ff-ca4dc2494cd6.png)
 
-スコアボードの表示は進捗具合により変化します
+* 各ゴーストの進捗解除実績等がチャット欄に流れます
+* スコアボードには各ゴーストのいるディメンション（色で表現）と構造物（Bastion, Fortressなど）が表示されます
+* スコアボードの表示は進捗具合により変化します
 
 | スコア | ステータス |
 | --- | --- |
@@ -41,8 +42,9 @@
 
 # Special Thanks
 本データパックを作成するにあたり、多くのRTA走者の方にPBのデータの利用を許可していただきました。
+ありがとうございます！
 
-| 名前 (SRCユーザー名) | データ元の動画 |
+| 名前 ([SRC](https://www.speedrun.com/mc)のユーザー名) | データ元の動画 |
 | --- | --- |
 | oyamelon | https://www.youtube.com/watch?v=ujkfqaXrefA&t |
 | Keima | https://www.youtube.com/watch?v=jKXK7bGWNPI |
