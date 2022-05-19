@@ -27,7 +27,7 @@
 ![vlcsnap-2022-05-19-14h29m04s515](https://user-images.githubusercontent.com/105827807/169217215-855aeded-17ac-4296-a8ff-ca4dc2494cd6.png)
 
 * 各ゴーストの進捗解除実績等がチャット欄に流れます
-* スコアボードには各ゴーストのいるディメンション（色で表現）と構造物（Bastion, Fortressなど）が表示されます
+* スコアボードには各ゴーストのいるディメンション（色で表現）と構造物（`[Bastion]`, `[Fortress]`など）が表示されます
 * スコアボードの表示は進捗具合により変化します
 
 | スコア | ステータス |
@@ -39,6 +39,10 @@
 | 5 | エンド要塞に入る |
 | 6 | エンドに入る |
 | ≒100 | エンドラ討伐完了 |
+
+# デモ動画
+
+[【デモプレイ】Minecraft Speedrun Ghostデータパック](https://www.youtube.com/watch?v=Z6T72VjGYJI)
 
 # Special Thanks
 本データパックを作成するにあたり、多くのRTA走者の方にPBのデータの利用を許可していただきました。
